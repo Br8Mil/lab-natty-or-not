@@ -1,51 +1,53 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+﻿**Pequena Interação Com I.A Generativa**
 
-## 🚀 Introdução
 
-> Woooow! Look at this 👀
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+**## 📒 Descrição**
 
-### Objetivos
+Uma pequena experiência, sobre o uso de I.A generativas, dentro do exercício pedido em <https://github.com/digitalinnovationone/lab-natty-or-not> pela [web.dio.me](http://web.dio.me) pelo programa “Bootcamp Nexa - Fundamentos de IA Generativa e Claude 3”
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
 
-### Template
+**## 🤖 Tecnologias Utilizadas**
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
 
-## 📒 Descrição
-Breve descrição do seu projeto
+- **Google Docs** - Para edição de texto: <https://docs.google.com>
 
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- **Copiloto (Microsoft)** - Perguntas e geração de imagens: <https://copilot.microsoft.com>
 
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+- **Deepai** -  Geração de imagem: <https://deepai.org/machine-learning-model/text2img>
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
+- **Aspose** - Converter docx para md: <https://products.aspose.app/words/pt/conversion/docx-to-md>
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+- **Google Tradutor**: <https://translate.google.com.br>
 
-### Exemplos e Insigths
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+**## 🧐 Processo de Criação**
 
-## Links Interessantes
+**Perguntas**
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
+Feitas para o **Copiloto (Microsoft)**
 
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+1. Pergunta - Tente elaborar um artigo explicando a história da I.A e seus possíveis desenvolvimento futuros.
+
+1. Pergunta - O que é uma I.A generativa?
+
+1. Crie uma imagem para direcionar ao site <https://pt.wikipedia.org/wiki/Intelig%C3%AAncia_artificial>
+
+**Imagens**
+
+foi usado o seguinte comando para o **Copiloto (Microsoft**) em português, e tendo usado o google tradutor para traduzir o mesmo para inglês para usar no **Deppai**
+
+“Crie uma imagem de um elefante rosa, com grandes orelhas, andando em um skate enquanto toca violino.”
+
+
+**## 🚀 Resultados**
+
+Resultados das imagens e respostas estão contidos nas pastas **resultados**.
+
+A terceira resposta não teve a resposta gerada mais veja aqui o seu [resultado](https://copilot.microsoft.com/images/create/https3a2f2fptwikipediaorg2fwiki2fintelig25c325aanciaar/1-664e4b71b3d34044bbe83669dcff59a3?FORM=SYDBIC).
+
+
+**## 💭 Reflexão (Opcional)**
+
+Foi bom para aprofundar um pouco sobre as possibilidades da I.A, além de estimular a pesquisa sobre o tema.
